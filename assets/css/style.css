@@ -1,0 +1,94 @@
+﻿.mt-77{ margin-top:77px !important;}
+.mt-75{ margin-top:75px;}
+.mt-72{ margin-top:72px;}
+.mt-90{ margin-top:90px}
+.mt-10{ margin-top:10px}
+.mt-20{ margin-top:20px}
+.mt-22{ margin-top:22px}
+.mt-35{ margin-top:35px;}
+.mt-30{ margin-top:30px !important;}
+.mt-60{ margin-top:60px}
+.mt-32{ margin-top:32px}
+.mt-15{ margin-top:15px}
+.mt-272{ margin-top:272px;}
+.mb-10{ margin-bottom:10px}
+.mb-20{ margin-bottom:20px}
+.mb-30{ margin-bottom:30px}
+.ml-20{ margin-left:20px}
+.ml-22{ margin-left:22px;}
+.ml-30{ margin-left:30px;}
+.ml-40{ margin-left:40px}
+.ml-90{ margin-left:90px;}
+.ml-125{ margin-left:125px;}
+.ml-133{ margin-left:133px;}
+.ml-200{ margin-left:200px}
+.ml-250{ margin-left:250px;}
+.ml-260{ margin-left:260px;}
+.ml-400{ margin-left:400px;}
+.ml-450{ margin-left:450px;}
+.ml-650{ margin-left:650px;}
+.p-0{ padding:0px;}
+.p-23{ padding:25rem}
+.p-10{ padding:10rem}
+body{ font-family:'Roboto' sans-serif !important;font-style:normal !important; font-weight:400 !important;}
+.carousel-inner .carousel-item img{ height:450px; max-height:100%;}
+
+.footer{ background-color: #363738e8 !important;}
+ul li{ list-style:none !important;}
+ul li a { color: #818182 !important;}
+ul li a:hover{ color: #db1825 !important; text-decoration:none !important;}
+ul .active a{color: #db1825 !important; }
+ul li a:hover{ color: #db1825 !important; }
+address{color: #fff !important; }
+
+.social{ display: inline-flex;}
+.social li{margin-left:15px; }
+.social .fb a:hover{ color: #5b95d4 !important;}
+.social .twitter a:hover{ color: rgba(0,123,255,.5) !important;}
+.social .wifi a:hover{ color: #ea7b05 !important;}
+.social .pin a:hover{ color: #ef2121 !important;}
+.social .inst a:hover{ color: #dc35c6 !important;}
+
+.basket:hover{border-color:brown;cursor:pointer}
+.tennis:hover{ border-color:yellowgreen;cursor:pointer}
+.rugby:hover{ border-color:brown;cursor:pointer}
+
+.card-text{ font-size:14px !important;}
+
+.user_image{ width:200px; height:200px !important; overflow:hidden;border-radius:50%;margin:auto !important;}
+.client_image{ width:200px; height:200px !important; overflow:hidden;margin:auto; }
+.carousel-caption{ color: #ccc;position: relative;right: 0%;bottom: 20px;left: 0%;}
+.carousel-item{ text-align:center;}
+.row{ margin:0px !important}
+.bg-info {background-color: #90d7e270!important;}
+.bg-success {background-color: rgba(0, 0, 0, 0.5)!important;height: 50px;margin: auto; width: 4%;}
+.footer_one{ border-top: 1px solid #615c5c;background-color: #212020;color: #6f6c6c;}
+.client{ background-color: #ffe0e7; background: linear-gradient(#ffe0e7, #ecfafc);margin: 0 auto;}
+
+.bg-img {
+    position: relative;
+    background: url("/assets/images/sport-1.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+    .bg-img:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+        opacity: .6;
+    }
+label{ color: #fff;}
+.contact-label{ color:#1b1e2194;}
+
+.bg-img-one{ position:relative; background:url("/assets/images/contact-banner.jpg")no-repeat; background-size:cover;}
+.bg-img-one:before{ content:''; position:absolute; top:0; left:0; right:0; bottom:0; background-color: #bbd1e4;opacity: 0.9;}
+
+.basket-img{ width:246px; height:200px; transition:transform 0.25s ease;}
+.basket-img:hover{transform:scale(1.5); -webkit-transform:scale(1.5);}
+
+.post-preview a{ color: #4c4c4cc2; font-weight:500; text-decoration:none}
+.post-preview a:hover{ color:#2fb94f;}
