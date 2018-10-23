@@ -1,7 +1,10 @@
 ﻿.mt-77{ margin-top:77px !important;}
 .mt-75{ margin-top:75px;}
 .mt-72{ margin-top:72px;}
+.mt-66{ margin-top:66px}
+.mt-65{ margin-top:65px;}
 .mt-90{ margin-top:90px}
+.mt-100{ margin-top:100px;}
 .mt-10{ margin-top:10px}
 .mt-20{ margin-top:20px}
 .mt-22{ margin-top:22px}
@@ -15,6 +18,7 @@
 .mb-20{ margin-bottom:20px}
 .mb-30{ margin-bottom:30px}
 .ml-20{ margin-left:20px}
+.ml-10{ margin-left:10px;}
 .ml-22{ margin-left:22px;}
 .ml-30{ margin-left:30px;}
 .ml-40{ margin-left:40px}
@@ -61,14 +65,15 @@ address{color: #fff !important; }
 .carousel-item{ text-align:center;}
 .row{ margin:0px !important}
 .bg-info {background-color: #90d7e270!important;}
-.bg-success {background-color: rgba(0, 0, 0, 0.5)!important;height: 50px;margin: auto; width: 4%;}
+.register{width: 50%;position: relative;top: 89px;}
+.bg-success {background-color: rgba(0, 0, 0, 0.5)!important;height: 50px;margin: auto; width: 4%; margin-left:45px;}
 .footer_one{ border-top: 1px solid #615c5c;background-color: #212020;color: #6f6c6c;}
 .client{ background-color: #ffe0e7; background: linear-gradient(#ffe0e7, #ecfafc);margin: 0 auto;}
 
 .bg-img {
-    position: relative;
-    background: url("/assets/images/sport-1.jpg") center center no-repeat;
+    background: url("/assets/images/sport-1.jpg")center no-repeat;
     background-size: cover;
+    height:789px;
 }
 
     .bg-img:before {
